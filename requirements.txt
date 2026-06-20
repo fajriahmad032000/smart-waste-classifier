@@ -1,7 +1,0 @@
-streamlit
-tensorflow-cpu
-pillow
-numpy
-pandas
-plotly
-firebase-admin
